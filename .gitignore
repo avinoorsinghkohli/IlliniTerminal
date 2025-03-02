@@ -1,0 +1,11 @@
+.env
+springboot/target
+/myenv
+.vscode
+output.sh
+split.sh
+splitapplescript.scpt
+app/__pycache__/helper.cpython-312.pyc
+app/agent/__pycache__/query_generator.cpython-312.pyc
+app/agent/__pycache__/stack_overflow_checker.cpython-312.pyc
+app/__pycache__/helper.cpython-312.pyc
