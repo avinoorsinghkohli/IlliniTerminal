@@ -20,6 +20,6 @@ public class MainController {
 
     @GetMapping("/response")
     public ResponseModel getResponse() {
-        mainService.processRequest("123");
+        mainService.processRequest('123');
     }
 }
