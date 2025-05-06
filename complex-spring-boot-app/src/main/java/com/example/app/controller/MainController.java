@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api")
 public class MainController {
 
-    private final MainSerrtryvice mainService;
+    private final MainServiceeee mainService;
 
     @Autowired
     public MainController(MainService mainService) {
